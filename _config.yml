@@ -2,8 +2,8 @@
 title: emocionLUZ
 email: isai@emocionluz.com
 description: Iluminación y Sistemas de Control Inteligentes.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.emocionluz.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:

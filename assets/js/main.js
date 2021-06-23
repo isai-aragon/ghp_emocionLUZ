@@ -41,11 +41,13 @@
 						images: {
 							'assets/images/bg01.jpg': 'center',
 							'assets/images/bg02.jpg': 'center',
-							'assets/images/bg03.jpg': 'center'
+							'assets/images/bg03.jpg': 'center',
+							'assets/images/bg04.jpg': 'center',
+							'assets/images/bg05.jpg': 'center'
 						},
 
 					// Delay.
-						delay: 6000
+						delay: 10000
 
 				};
 
@@ -162,7 +164,7 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
+								$message._show('success', 'Muchas gracias');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
